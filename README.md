@@ -8,4 +8,4 @@ Instructions:
 3) Follow the TENET User Guide.pdf for rest of installation and usage instructions.
 
 Location of .jar:
-1) TENET.jar is found in the release ()
+1) TENET.jar is found in the release (https://github.com/trove2017/Tenet/releases)
