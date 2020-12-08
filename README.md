@@ -6,3 +6,6 @@ Instructions:
 1) Download and save all files you see here to a folder called "network_lib" in the C directory "C:\"
 2) Unzip the follwing files: CuiNetworkData.zip, svmTraining.zip and timeseries.zip
 3) Follow the TENET User Guide.pdf for rest of installation and usage instructions.
+
+Location of .jar:
+1) TENET.jar is found in the release ()
