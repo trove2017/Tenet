@@ -1,2 +1,3 @@
 # Tenet
 Characterize known targets in signaling networks using topological features
+A network-based approach that characterizes known targets in signaling networks using topological features. TENET first computes a set of topological features and then leverages a support vector machine-based approach to identify predictive topological features that characterizes known targets. A characterization model is generated and it specifies which topological features are important for discriminating the targets and how these features should be combined to quantify the likelihood of a node being a target.
